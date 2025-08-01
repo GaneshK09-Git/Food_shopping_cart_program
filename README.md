@@ -15,10 +15,17 @@ While it is labeled as a "Food" shopping cart, you can easily use it for general
 # Example Run:
 
 Enter a food to buy (q to quit): Apple
+
 Enter the price of a Apple: $1.50
+
 Enter a food to buy (q to quit): Bread
+
 Enter the price of a Bread: $2.25
+
 Enter a food to buy (q to quit): q
+
+
 -----YOUR CART-----
-Apple Bread 
+Apple, Bread 
+
 Your total is: $3.75
