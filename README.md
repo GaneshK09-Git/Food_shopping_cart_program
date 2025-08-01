@@ -26,6 +26,7 @@ Enter a food to buy (q to quit): q
 
 
 -----YOUR CART-----
+
 Apple, Bread 
 
 Your total is: $3.75
